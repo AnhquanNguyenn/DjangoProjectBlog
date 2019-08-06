@@ -8,3 +8,7 @@ Blog Features
 - Security for profile accesses
 - Email Confirmations for password changes
 - Pagnation for handling posts
+- Backend SQLite Database Handling Profiles and Posts
+
+
+
